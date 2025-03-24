@@ -1,0 +1,23 @@
+#counter {
+    font-size: 10em;
+    display: block;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+#buttonContainer {
+    text-align: center;
+}
+
+.buttons {
+    color: white;
+    background-color: rgb(50, 71, 110);
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 30px;
+    transition: background-color 1s;
+}
+
+.buttons:hover {
+    background-color: rgb(20, 128, 155);
+}
